@@ -10,7 +10,7 @@
 
 - 🎓 **Education:** Software Engineering student at **Fudan University**.
 - 🔭 **Current Work:** Developing the [Fduhole Admin Management System](https://github.com/OpenTreeHole/admin-next.git) using **Vue 3**, **Vite**, and **unplugin-vue-router**.
-- 🚀 **GSoC 2026:** Researching and preparing a proposal for the **ImageJ Active Segmentation platform**.
+- 🚀 **GSoC 2026:** Researching and preparing.
 - 🌱 **Learning:** Diving deep into **Advanced Frontend Patterns**, **UI/UX Design**, and **Java Plugin Development**.
 - ⚡ **Fun Fact:** Crocheting enthusiast 🧶 | Gym regular 💪 | Long-distance runner 🏃‍♂️.
 
