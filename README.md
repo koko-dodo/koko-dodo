@@ -20,7 +20,7 @@
 - 🤖 **AI & LLMs:** Experience with LLM fine-tuning projects, AIGC safety research, and AI-assisted development.
 - 🌱 **Currently Learning:** Database Systems, Large Language Models, and Distributed Computing.
 - 🎯 **Career Interests:** Software Engineering, Data Engineering, and AI Applications.
-- ⚡ **Fun Facts:** Crocheting enthusiast 🧶 | Gym regular 💪 | Running lover 🏃‍♀️
+- ⚡ **Fun Facts:** Turning yarn into cute things 🧶, missing tennis shots 🎾, and pretending I know what I'm doing with watercolors 🎨.
 
 ---
 
